@@ -1,0 +1,2 @@
+# advpy2
+inheritance
